@@ -24,3 +24,10 @@ Due to licensing restrictions, raw microdata are not included in this repository
 To reproduce the analysis, please download the dataset directly from GESIS after registration.
 
 The analysis includes data cleaning, weighted descriptive statistics, visualization, and multivariate regression modeling.
+
+## 📬 Contact
+
+If you would like to discuss this project or potential collaboration opportunities, feel free to contact me:
+
+- Email: marcin.deszczka at gmail.com
+- LinkedIn:https://www.linkedin.com/in/marcin-deszczka-407b113a9/
