@@ -17,4 +17,10 @@
 - Sex is not statistically significant.
 - Age has a statistically significant but practically small effect.
 
+The dataset is available from GESIS – Leibniz Institute for the Social Sciences:
+https://www.gesis.org/en/issp/data-and-documentation/family-and-changing-gender-roles/2022
+
+Due to licensing restrictions, raw microdata are not included in this repository.
+To reproduce the analysis, please download the dataset directly from GESIS after registration.
+
 The analysis includes data cleaning, weighted descriptive statistics, visualization, and multivariate regression modeling.
